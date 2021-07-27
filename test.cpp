@@ -18,8 +18,8 @@ using namespace std;
 int main() {
 
     // 负数模
-    // int x = -16;
-    // cout << x%10 << endl;
+    int x = -16;
+    cout << x%10 << endl;
     
     // x /= 10;
     // cout << x%10 << endl;

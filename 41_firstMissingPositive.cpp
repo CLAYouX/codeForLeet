@@ -19,7 +19,7 @@ int firstMissingPositive(vector<int>& nums);
 
 int main() {
 
-    vector<int> nums = {1,1};
+    vector<int> nums = {3,4,-1,1,9,-5};
 
     cout << firstMissingPositive(nums) << endl;
     for (auto &i : nums)
